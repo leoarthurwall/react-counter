@@ -27,7 +27,7 @@ const divideTwo = () => {
 
   return (
     <div className="App">
-      <h1>Counter</h1>
+      <h1>Pointless Counter</h1>
       <button  onClick={incrementOne}>+ 1</button>
       <button  onClick={decrementOne} >- 1</button>
       <button  onClick={incrementFive} >+ 5</button>
